@@ -1,0 +1,16 @@
+# Site settings
+title: Pete Solecki
+email: info@petesolecki.com
+description: "Web home of Pete Solecki, Georgetown Alum, political and digital strategist."
+baseurl: /www-ps
+url: "http://www.petesolecki.com"
+twitter_username: petesolecki
+github_username:  petesolecki
+name: Pete Solecki
+
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
+highlighter: pygments
+
