@@ -6,9 +6,43 @@
   padding: 0;
 }
 
-html, body { height: 100%; margin-left: auto;
+
+
+body {
+      font-family: 'Josefin Slab', serif;  font-size: 20px;
+    max-width: 700px;
+    width: 80%;
+
+margin-left: auto;
     margin-right: auto;
-    width: 50%;}
+    position: relative;
+  line-height: 1.5;
+  font-weight: 300;
+  background-color: #ffffff;
+  color: #191970;
+    }
+
+/*
+Jekyll:
+html, body { height: 100%; }
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 300;
+  background-color: #fdfdfd;
+}
+
+MINE:
+
+html { 
+	height: 100%; 
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+    }
 
 body {
   font-family: 'Josefin Slab', serif;  font-size: 20px;
@@ -16,15 +50,19 @@ body {
   font-weight: 300;
   background-color: #ffffff;
   color: #191970;
+  	margin-left: auto;
+    margin-right: auto;
+    width: 75%;
   position: absolute;
   padding-top: 5%;
 }
-
+*/
 h1, h2, h3, h4, h5, h6 { font-size: 300%; font-weight: 700; }
 
 a         { font-weight: 700; text-decoration: none; color: #191970; }
 a:hover   { font-weight: 300; text-decoration: none; line-height: 32px; color: #191970; }
 a:visited { color: #A0A0A0; }
+
 
 /* Utility */
 

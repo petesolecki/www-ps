@@ -1,0 +1,418 @@
+.ritz .waffle .s1 {
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s19 {
+    border-bottom:1px DASHED #000;
+    text-align:right;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s26 {
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:top;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s31 {
+    border-bottom:1px SOLID #ddd;
+    text-align:center;
+    color:#fff;
+    background-color:#c40f3a;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s24 {
+    border-bottom:1px SOLID #000;
+    text-align:center;
+    color:#000;
+    background-color:#f5f5bd;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s7 {
+    border-bottom:1px SOLID #aaa;
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s0 {
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s12 {
+    border-bottom:1px SOLID #ddd;
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s17 {
+    border-bottom:1px DASHED #000;
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s20 {
+    border-bottom:1px DASHED #000;
+    text-align:center;
+    color:#000;
+    background-color:#f5f5bd;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s5 {
+    border-bottom:1px SOLID #aaa;
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s6 {
+    border-bottom:1px SOLID #aaa;
+    text-align:center;
+    font-weight:700;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s27 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#fff;
+    background-color:#da8482;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s25 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#000;
+    background-color:#facece;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s16 {
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s4 {
+    border-bottom:1px SOLID #aaa;
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s2 {
+    text-align:center;
+    font-weight:700;
+    color:#326891;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s23 {
+    border-bottom:1px SOLID #000;
+    text-align:right;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s30 {
+    border-bottom:1px SOLID #ddd;
+    text-align:center;
+    color:#000;
+    background-color:#facece;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s3 {
+    text-align:center;
+    color:#326891;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s14 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#fff;
+    background-color:#405d98;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s22 {
+    border-bottom:1px SOLID #000;
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s11 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#fff;
+    background-color:#88a0c6;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s8 {
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s9 {
+    border-bottom:1px SOLID #ddd;
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s21 {
+    border-bottom:1px SOLID #000;
+    text-align:left;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:bottom;
+    white-space:normal;
+    overflow:hidden;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s10 {
+    border-bottom:1px SOLID #ddd;
+    text-align:right;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s15 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#000;
+    background-color:#f5f5bd;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s13 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#000;
+    background-color:#c9e1f5;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s28 {
+    border-bottom:1px SOLID #fff;
+    text-align:center;
+    color:#fff;
+    background-color:#c40f3a;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s18 {
+    border-bottom:1px DASHED #000;
+    text-align:center;
+    color:#000;
+    background-color:#fff;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
+
+.ritz .waffle .s29 {
+    border-bottom:1px SOLID #ddd;
+    text-align:center;
+    color:#fff;
+    background-color:#da8482;
+    font-family:arial,sans,sans-serif;
+    font-size:8pt;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 3px
+}
