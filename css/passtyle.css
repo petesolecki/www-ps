@@ -194,6 +194,37 @@ a:visited { color: #A0A0A0; }
 a:hover   { text-decoration: none; line-height: 29px; color: #FF309F; }
 
 
+
+#a1:hover ~ div > #sa1 {
+    display: block;
+    color: red;
+    
+    
+    
+transition-property:display;
+transition-duration:2s;
+
+/* Safari */
+-webkit-transition-property:display;
+-webkit-transition-duration:2s;
+}
+}
+
+#sa1 {
+    display: none;
+}
+
+
+.logo
+{
+
+
+
+.logo:hover
+{
+}
+
+
 /* Utility */
 
 .wrap:before,
