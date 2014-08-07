@@ -50,6 +50,7 @@ h2 {
 	 font-weight: 400;
 	 font-style: normal;
 	 	 color: #666666;
+	 	 position: relative;
 
 }
 
@@ -220,12 +221,20 @@ transition-duration:2s;
 
 @media only screen and (min-width: 750px) {
 
+div.logobox{
+	position: relative;
+    margin-top: 35px;
+	margin-left: auto;
+    margin-right: auto;
+	width: 75%; 
+}
+
 span.logo {
 	color: #ffffff;
-	margin: 200px;
+	margin: auto;
 	font-family: 'Josefin Slab', serif;
 	font-weight: 700;
-	font-size:400%
+	font-size:400%;
 }
 
 span.logo:hover {
