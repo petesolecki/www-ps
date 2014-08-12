@@ -124,6 +124,7 @@ em.organization-name::after {
 
 .position{
 	clear:both;
+	font-weight:300;
 }
 
 .job-title{
