@@ -1,0 +1,201 @@
+
+
+html{
+
+
+}
+
+body{
+	font-family: 'Josefin Slab', serif;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0px;
+	margin-bottom: 20px;
+	color: #323232;
+
+}
+
+@media only screen and (max-width: 745px) {
+
+	body{
+		width: 94%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+}
+
+@media only screen and (max-width: 421px) {
+
+	h1.logo-resume {
+		font-size: 45px; 
+		font-size: 14vw;
+	}
+
+	.long {
+		display: none;
+	}
+
+	.short {
+		display: inline;
+	}
+
+}
+
+@media only screen and (min-width: 421px) {
+
+	h1.logo-resume {
+		font-size:3.75em;
+	}
+	
+	.long {
+		display: inline;
+	}
+
+	.short {
+		display: none;
+	}
+
+}
+
+h1.logo-resume{
+
+	text-transform: uppercase;
+	font-weight:700;
+	color: #191970;
+	margin-top:.33em;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #A7A7A7;
+
+}
+
+.contact-info{
+	margin-bottom: 1.5em;
+	font-style: normal;
+	list-style-type:none;
+	list-style-position: inside;
+
+}
+
+li.contact + li.contact::before{
+	content:"abc";
+	float:left;
+
+}
+
+
+
+div.job-summary{
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-size: 1.1em;
+	margin-bottom: 5px;
+	clear:both;
+
+}
+
+.organization{
+	font-style: inherit;
+
+}
+
+.organization-name{
+	text-transform: uppercase;
+	font-weight:700;
+	font-style: inherit;
+	color: #191970;
+	float: left;
+
+
+}
+
+.organization-location{
+	font-style: inherit;
+	float:left;
+}
+
+
+em.organization-name::after {
+	content: ",\0000a0";
+
+}
+
+
+.position{
+	clear:both;
+}
+
+.job-title{
+	text-transform: uppercase;
+	font-weight:300;
+	font-style: inherit;
+	float:left;
+
+}
+
+.time-period{
+	font-style: inherit;
+	float:left;
+
+}
+
+em.job-title::after {
+	content: ",\0000a0";
+}
+
+time + time::before{
+
+	content:"\002014";
+}
+
+p{
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+ul {
+	list-style: square;
+	margin-top:0px;
+	font-size: 1.2em;
+	clear:both;
+}
+
+li {
+	margin-bottom: 3px;
+}
+
+div.section-break{
+	text-align: center;
+	margin:1em 0 1em;
+	font-size: 1.15em;
+
+}
+
+a { 
+	font-weight: 700; 
+	text-decoration: none; 
+	color: #191970; 
+}
+
+a:visited { color: #A0A0A0; }
+a:hover   { text-decoration: none; color: #FF309F; }
+
+footer {
+
+	font-family: 'Lato', sans-serif;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #323232;
+	text-align: center;
+	font-size: .85em;
+	clear:both;
+	padding-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+footer p {
+
+}
