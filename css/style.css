@@ -83,12 +83,6 @@ h1.logo-resume{
 
 }
 
-li.contact + li.contact::before{
-	content:"abc";
-	float:left;
-
-}
-
 
 
 div.job-summary{
@@ -117,6 +111,7 @@ div.job-summary{
 
 .organization-location{
 	font-style: inherit;
+	font-weight:300;
 	float:left;
 }
 
@@ -141,6 +136,7 @@ em.organization-name::after {
 
 .time-period{
 	font-style: inherit;
+	font-weight:300;
 	float:left;
 
 }
