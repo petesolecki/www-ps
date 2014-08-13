@@ -31,12 +31,17 @@ body{
 
 }
 
-@media only screen and (max-width: 421px) {
+@media only screen and (max-width: 450px) {
 
 	h1.logo-resume {
 		font-size: 45px; 
 		font-size: 14vw;
 	}
+
+	h1 {
+		font-size: 45px; 
+		font-size: 14vw;
+	}	
 
 	.long {
 		display: none;
@@ -48,10 +53,14 @@ body{
 
 }
 
-@media only screen and (min-width: 421px) {
+@media only screen and (min-width: 450px) {
 
 	h1.logo-resume {
 		font-size:3.75em;
+	}
+
+	h1.logo-main {
+		font-size:76px;
 	}
 	
 	.long {
@@ -80,10 +89,9 @@ h1.logo-main{
 	text-transform: uppercase;
 	font-weight:700;
 	color: #191970;
-	margin-top:225px;
-	margin-top: 25vh;
+	margin-top:125px;
+	margin-top: 10vh;
 	margin-bottom: 5px;
-	font-size:76px;
 	text-align: center;
 
 }
@@ -92,7 +100,7 @@ h1.logo-main{
 	max-width: 500px;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 1.375em;
+	font-size: 1.25em;
 
 
 }
@@ -107,8 +115,10 @@ h1.logo-main{
 
 
 h3 {
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
 	font-style: normal;
-	font-size: 28px;
+	font-size: 1.1em;
 	font-weight:300;
 	color: #191970;
 
@@ -224,7 +234,7 @@ a {
 	color: #191970; 
 }
 
-a:visited { color: #A0A0A0; }
+a:visited { color: #323232; }
 a:hover   { text-decoration: none; color: #FB0064; }
 
 footer {
