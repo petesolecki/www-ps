@@ -75,6 +75,50 @@ h1.logo-resume{
 
 }
 
+h1.logo-main{
+
+	text-transform: uppercase;
+	font-weight:700;
+	color: #191970;
+	margin-top:225px;
+	margin-top: 25vh;
+	margin-bottom: 5px;
+	font-size:76px;
+	text-align: center;
+
+}
+
+.main-page {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.375em;
+
+
+}
+
+.intro {
+	font-size:28px;
+	margin-bottom:225px;
+	margin-bottom: 25vh;
+}
+
+
+
+
+h3 {
+	font-style: normal;
+	font-size: 28px;
+	font-weight:300;
+	color: #191970;
+
+}
+
+p.social {
+
+	text-align: justify;
+}
+
 .contact-info{
 	margin-bottom: 1.5em;
 	font-style: normal;
