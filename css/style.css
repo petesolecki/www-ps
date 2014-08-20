@@ -255,9 +255,9 @@ a {
 }
 
 .byline > a {
-	font-weight: inherit; 
+	font-weight: 300; 
 	text-decoration: none; 
-	color: inherit; 	
+	color: #A7A7A7; 	
 }
 
 a:visited { color: #323232; }
