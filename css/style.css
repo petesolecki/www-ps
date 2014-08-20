@@ -254,7 +254,7 @@ a {
 	color: #A7A7A7;
 }
 
-.byline > a {
+a.byline {
 	font-weight: 300; 
 	text-decoration: none; 
 	color: #A7A7A7; 	
