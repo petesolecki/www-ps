@@ -21,6 +21,10 @@ body{
 	color: #ffffff;
 }
 
+section, article, aside, footer, header, nav, hgroup {
+	display:block;
+}
+
 @media only screen and (max-width: 745px) {
 
 	body{
@@ -236,6 +240,21 @@ a {
 	font-weight: 700; 
 	text-decoration: none; 
 	color: #191970; 
+}
+
+.byline{
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	font-size: 12px;
+	font-weight:300;
+	color: #A7A7A7;
+}
+
+a.byline {
+	font-weight: inherit; 
+	text-decoration: none; 
+	color: inherit; 	
 }
 
 a:visited { color: #323232; }
