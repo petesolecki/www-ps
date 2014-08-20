@@ -245,7 +245,6 @@ a {
 
 .byline{
 	font-family: 'Lato', sans-serif;
-	display: block;
 	margin-top: 10px;
 	text-transform: uppercase;
 	font-style: normal;
@@ -259,6 +258,8 @@ a.byline {
 	text-decoration: none; 
 	color: #A7A7A7; 	
 }
+
+a.byline:visited { color: #A7A7A7; }
 
 a:visited { color: #323232; }
 a:hover   { text-decoration: none; color: #FB0064; }
