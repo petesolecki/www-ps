@@ -244,6 +244,7 @@ a {
 
 .byline{
 	font-family: 'Lato', sans-serif;
+	display: block;
 	text-transform: uppercase;
 	font-style: normal;
 	font-size: 12px;
@@ -251,7 +252,7 @@ a {
 	color: #A7A7A7;
 }
 
-a.byline {
+.byline > a {
 	font-weight: inherit; 
 	text-decoration: none; 
 	color: inherit; 	
