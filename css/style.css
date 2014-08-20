@@ -245,6 +245,8 @@ a {
 .byline{
 	font-family: 'Lato', sans-serif;
 	display: block;
+	float:left;
+	margin-top: 10px;
 	text-transform: uppercase;
 	font-style: normal;
 	font-size: 12px;
