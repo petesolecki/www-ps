@@ -60,6 +60,8 @@ section, article, aside, footer, header, nav, hgroup {
 	}
 	table {
     font-size:10px;
+    position: relative; 
+    right: 5px;
 	}
 
 }
