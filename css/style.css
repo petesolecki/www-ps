@@ -55,6 +55,13 @@ section, article, aside, footer, header, nav, hgroup {
 		display: inline;
 	}
 
+	.ext {
+		display: none;
+	}
+	table {
+    font-size:10px;
+	}
+
 }
 
 @media only screen and (min-width: 450px) {
@@ -73,6 +80,10 @@ section, article, aside, footer, header, nav, hgroup {
 
 	.short {
 		display: none;
+	}
+
+	table {
+    font-size:11px;
 	}
 
 }
@@ -283,4 +294,74 @@ footer {
 
 footer p {
 
+}
+
+table {
+	border-bottom:1px SOLID #323232;
+	font-family: 'Lato', sans-serif;
+    color:#000000;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    border-collapse: collapse;
+    text-align: center;
+    width:100%;
+    font-weight: 400;
+}
+
+th {
+    font-weight: 400;
+	border-bottom:1px SOLID #323232;
+    padding:6px 2px;
+    line-height: 18px;
+    background-color: #ffffff;
+
+}
+
+
+
+td {
+	font-family: 'Lato', sans-serif;
+    vertical-align:middle;
+    white-space:nowrap;
+    direction:ltr;
+    padding:2px 2px;
+    border-collapse: collapse;
+    border: 1px SOLID #ffffff;
+    line-height: 19px;
+
+}
+
+table a {
+	font-weight: 400;
+}
+
+.states {
+	text-align: right;
+	padding-right: 3px;
+    border-bottom: 1px SOLID #A7A7A7;
+    border-left: none;
+
+}
+
+.sen-sep {
+	max-width:16px;
+    background-color:#efefef;
+
+}
+
+.seats {
+    border-bottom: 1px SOLID #A7A7A7;
+    border-right: none;
+}
+
+col.sen-others, col.comb {
+	width:11%;
+    background-color: #efefef;
+
+}
+
+.invert{
+	text-shadow: 0px 0px 2px #000;
+	color:#ffffff;
 }
