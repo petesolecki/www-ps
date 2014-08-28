@@ -16,6 +16,12 @@ body{
 
 }
 
+
+p {
+	font-size: 1.2em;
+}
+
+
 ::selection {
 	background-color: #FB0064;
 	color: #ffffff;
@@ -144,11 +150,6 @@ h1.logo-main{
 	margin-bottom: 15vh;
 }
 
-p {
-	font-size: 1.2em;
-	color: #191970;
-}
-
 h2 {
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
@@ -162,6 +163,16 @@ h3 {
 	font-style: normal;
 	font-size: 1.375em;
 	font-weight:300;
+	color: #191970;
+
+}
+
+h4 {
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	font-size: 1.2em;
+	font-weight:700;
 	color: #191970;
 
 }
@@ -252,11 +263,6 @@ time + time::before{
 	content:"\002014";
 }
 
-p{
-	margin-top:0px;
-	margin-bottom: 0px;
-}
-
 ul {
 	list-style: square;
 	margin-top:0px;
@@ -333,6 +339,7 @@ table {
     width:100%;
     font-weight: 400;
     margin-top: 3em;
+    margin-bottom:3em;
 }
 
 th {
@@ -356,6 +363,24 @@ td {
     border: 1px SOLID #ffffff;
     line-height: 19px;
 
+}
+
+
+th.forecasters {
+	width: 15%;
+}
+
+td.forecasters {
+	max-width: 15%;
+	line-height:1em;
+
+}
+
+p.forecasters{
+	text-align: left;
+	font-size: 8px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 table a {
