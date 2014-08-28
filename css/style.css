@@ -315,6 +315,11 @@ a.byline {
 	color: #A7A7A7; 	
 }
 
+#bot-share {
+	font-size: 1.2em;
+	padding-top: 20px
+}
+
 a.byline:visited { color: #A7A7A7; }
 
 a:visited { color: #323232; }
