@@ -365,23 +365,26 @@ td {
 
 }
 
-
-th.forecasters {
-	width: 15%;
-}
-
-td.forecasters {
-	max-width: 15%;
-	line-height:1em;
+div.method {
+		max-width: 400px;
 
 }
 
-p.forecasters{
-	text-align: left;
-	font-size: 8px;
-	margin-top: 0px;
-	margin-bottom: 0px;
+th.method {
+	vertical-align: bottom;
 }
+
+td.method {
+    border-bottom: 1px SOLID #A7A7A7;
+    border-right: none;
+    border-left: none;
+
+}
+
+td.method:first-of-type {
+	font-weight: 700;
+}
+
 
 table a {
 	font-weight: 400;
