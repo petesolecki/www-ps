@@ -420,6 +420,34 @@ col.sen-others, col.comb {
 	color:#ffffff;
 }
 
+div.forecasters {
+	display: inline;
+	float:left;
+	min-width:150px;
+	min-height: 100px;
+}
+
+dl {
+	font-family: 'Lato', sans-serif;
+    font-size: 13px
+}
+
+dt {
+	margin-top: 1em;
+}
+
+dd {
+	margin: 0px;
+}
+
+dd > a {
+	    font-weight: 300;
+
+}
+
+.clear {
+    clear: both;
+}
 
 /* LOGO ANIMATION */
 
