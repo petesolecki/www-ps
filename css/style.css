@@ -299,6 +299,16 @@ div.byline{
 	float:left;
 }
 
+p.by{
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight:300;
+	color: #A7A7A7;
+	position:relative;
+	top:-8px;
+}
+
 a.byline {
 	font-weight: 300; 
 	text-decoration: none; 
@@ -424,7 +434,7 @@ div.forecasters {
 	display: inline;
 	float:left;
 	min-width:150px;
-	min-height: 100px;
+	min-height: 95px;
 }
 
 dl {
