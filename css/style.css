@@ -269,7 +269,7 @@ time + time::before{
 }
 
 ul.recipe-list {
-	float:left;
+	clear:none;
 }
 
 ul {
