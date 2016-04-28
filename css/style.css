@@ -284,6 +284,7 @@ li {
 }
 
 div.section-break{
+	clear: both;
 	text-align: center;
 	margin:1em 0 1em;
 	font-size: 1.15em;
